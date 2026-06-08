@@ -1,0 +1,16 @@
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.Form1.resources
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.csproj.GenerateResource.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.AssemblyInfoInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.AssemblyInfo.cs
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\bin\Debug\net8.0-windows\MarquezP1.exe
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\bin\Debug\net8.0-windows\MarquezP1.deps.json
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\bin\Debug\net8.0-windows\MarquezP1.runtimeconfig.json
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\bin\Debug\net8.0-windows\MarquezP1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\bin\Debug\net8.0-windows\MarquezP1.pdb
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\refint\MarquezP1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.pdb
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\MarquezP1.genruntimeconfig.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezP1\MarquezP1\obj\Debug\net8.0-windows\ref\MarquezP1.dll
