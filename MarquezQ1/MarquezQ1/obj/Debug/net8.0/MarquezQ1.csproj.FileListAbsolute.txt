@@ -1,0 +1,14 @@
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\bin\Debug\net8.0\MarquezQ1.exe
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\bin\Debug\net8.0\MarquezQ1.deps.json
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\bin\Debug\net8.0\MarquezQ1.runtimeconfig.json
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\bin\Debug\net8.0\MarquezQ1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\bin\Debug\net8.0\MarquezQ1.pdb
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.AssemblyInfoInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.AssemblyInfo.cs
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\refint\MarquezQ1.dll
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.pdb
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\MarquezQ1.genruntimeconfig.cache
+C:\Users\llama\OneDrive\Desktop\C#\MarquezQ1\MarquezQ1\obj\Debug\net8.0\ref\MarquezQ1.dll
