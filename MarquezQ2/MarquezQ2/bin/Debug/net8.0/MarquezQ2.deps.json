@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MarquezQ2/1.0.0": {
+        "runtime": {
+          "MarquezQ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarquezQ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
