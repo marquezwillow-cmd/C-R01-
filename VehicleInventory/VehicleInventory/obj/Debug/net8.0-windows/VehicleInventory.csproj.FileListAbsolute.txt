@@ -1,0 +1,16 @@
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.VehicleInventoryForm.resources
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.csproj.GenerateResource.cache
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.AssemblyInfoInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.AssemblyInfo.cs
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\bin\Debug\net8.0-windows\VehicleInventory.exe
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\bin\Debug\net8.0-windows\VehicleInventory.deps.json
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\bin\Debug\net8.0-windows\VehicleInventory.runtimeconfig.json
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\bin\Debug\net8.0-windows\VehicleInventory.dll
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\bin\Debug\net8.0-windows\VehicleInventory.pdb
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.dll
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\refint\VehicleInventory.dll
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.pdb
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\VehicleInventory.genruntimeconfig.cache
+C:\Users\llama\OneDrive\Desktop\C#\VehicleInventory\VehicleInventory\obj\Debug\net8.0-windows\ref\VehicleInventory.dll
