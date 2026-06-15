@@ -1,0 +1,16 @@
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\bin\Debug\net8.0-windows\StudentFormDemo.exe
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\bin\Debug\net8.0-windows\StudentFormDemo.deps.json
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\bin\Debug\net8.0-windows\StudentFormDemo.runtimeconfig.json
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\bin\Debug\net8.0-windows\StudentFormDemo.dll
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\bin\Debug\net8.0-windows\StudentFormDemo.pdb
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.frmStudentInfo.resources
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.csproj.GenerateResource.cache
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.AssemblyInfoInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.AssemblyInfo.cs
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.dll
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\refint\StudentFormDemo.dll
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.pdb
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\StudentFormDemo.genruntimeconfig.cache
+C:\Users\llama\OneDrive\Desktop\C#\StudentFormDemo\StudentFormDemo\obj\Debug\net8.0-windows\ref\StudentFormDemo.dll
