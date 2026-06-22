@@ -1,0 +1,15 @@
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\bin\Debug\HRManager.exe.config
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\bin\Debug\HRManager.exe.config
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\bin\Debug\HRManager.exe
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\bin\Debug\HRManager.pdb
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\obj\Debug\HRManager.csprojResolveAssemblyReference.cache
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\obj\Debug\HRManager.exe
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day12ObjectClass\ObjectClassDemo\HRManager\HRManager\obj\Debug\HRManager.pdb
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\bin\Debug\HRManager.exe.config
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\bin\Debug\HRManager.exe
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\bin\Debug\HRManager.pdb
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\obj\Debug\HRManager.csproj.AssemblyReference.cache
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\obj\Debug\HRManager.exe.config
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\obj\Debug\HRManager.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\obj\Debug\HRManager.exe
+C:\Users\llama\OneDrive\Desktop\HRManager\HRManager\obj\Debug\HRManager.pdb
