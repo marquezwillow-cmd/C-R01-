@@ -1,0 +1,22 @@
+<Window x:Class="WPF_Layout_Demo.DockPanelDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DockPanelDemo" Height="300" Width="300">
+    <DockPanel>
+        <Border Height="25" Background="AliceBlue" DockPanel.Dock="Top">
+            <TextBlock Margin="5,2">Menu</TextBlock>
+        </Border>
+        <Border Height="25" Background="Aqua" DockPanel.Dock="Top">
+            <TextBlock Margin="5,2">Ribbon</TextBlock>
+        </Border>
+        <Border Height="30" Background="LightSteelBlue" DockPanel.Dock="Bottom">
+            <TextBlock Margin="5,5">Status</TextBlock>
+        </Border>
+        <Border Width="80" Background="Azure" DockPanel.Dock="Left">
+            <TextBlock Margin="5">Left Side</TextBlock>
+        </Border>
+        <Border Background="HotPink">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Remaining Part</TextBlock>
+        </Border>
+    </DockPanel>
+</Window>

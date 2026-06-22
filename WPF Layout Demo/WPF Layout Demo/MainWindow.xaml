@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF_Layout_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF Layout Master Dashboard" Height="350" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Select a Layout Engine to Test" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,15"/>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" VerticalAlignment="Center">
+            <Button x:Name="btnStackPanel" Content="1. StackPanel Demo" Height="35" Margin="5" Click="btnStackPanel_Click" />
+            <Button x:Name="btnWrapPanel" Content="2. WrapPanel Demo" Height="35" Margin="5" Click="btnWrapPanel_Click" />
+            <Button x:Name="btnCanvas" Content="3. Canvas Demo" Height="35" Margin="5" Click="btnCanvas_Click" />
+            <Button x:Name="btnDockPanel" Content="4. DockPanel Demo" Height="35" Margin="5" Click="btnDockPanel_Click" />
+            <Button x:Name="btnGrid" Content="5. Grid Demo" Height="35" Margin="5" Click="btnGrid_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\CanvasDemo.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\StackPanelDemo.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WrapPanelDemo.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\CanvasDemo.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\StackPanelDemo.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WrapPanelDemo.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo_MarkupCompile.cache
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.g.resources
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.AssemblyInfoInputs.cache
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.AssemblyInfo.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.csproj.CoreCompileInputs.cache
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\bin\Debug\net8.0-windows\WPF Layout Demo.exe
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\bin\Debug\net8.0-windows\WPF Layout Demo.deps.json
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\bin\Debug\net8.0-windows\WPF Layout Demo.runtimeconfig.json
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\bin\Debug\net8.0-windows\WPF Layout Demo.dll
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\bin\Debug\net8.0-windows\WPF Layout Demo.pdb
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\DockPanelDemo.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\GridDemo.baml
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\DockPanelDemo.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\GridDemo.g.cs
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.dll
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\refint\WPF Layout Demo.dll
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.pdb
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\WPF Layout Demo.genruntimeconfig.cache
+C:\Users\llama\source\repos\WPF Layout Demo\WPF Layout Demo\obj\Debug\net8.0-windows\ref\WPF Layout Demo.dll
