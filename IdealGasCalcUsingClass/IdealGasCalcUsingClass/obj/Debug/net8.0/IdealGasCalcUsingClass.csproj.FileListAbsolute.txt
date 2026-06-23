@@ -1,0 +1,15 @@
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\IdealGasCalcUsingClass.exe
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\IdealGasCalcUsingClass.deps.json
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\IdealGasCalcUsingClass.runtimeconfig.json
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\IdealGasCalcUsingClass.dll
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\IdealGasCalcUsingClass.pdb
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.AssemblyInfoInputs.cache
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.AssemblyInfo.cs
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.csproj.CoreCompileInputs.cache
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.dll
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\refint\IdealGasCalcUsingClass.dll
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.pdb
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\IdealGasCalcUsingClass.genruntimeconfig.cache
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\obj\Debug\net8.0\ref\IdealGasCalcUsingClass.dll
+C:\Users\llama\source\repos\IdealGasCalcUsingClass\IdealGasCalcUsingClass\bin\Debug\net8.0\Mols.csv
